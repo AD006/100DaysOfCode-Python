@@ -18,7 +18,6 @@ Welcome to my journey through the "100 Days of Code" challenge, where I'll be di
 * Community Engagement: Engaging with fellow learners and developers, sharing experiences, and supporting each other's journey.
 
 ## Join Me:
-Follow along as I embark on this journey! Connect with me on GitHub or Linkedin to explore my projects, share feedback, or join discussions on Python programming and beyond.
-[Ashish Dhiman](https://www.linkedin.com/in/dhiman605/)
+Follow along as I embark on this journey! Connect with me on GitHub or [Linkedin](https://www.linkedin.com/in/dhiman605/) to explore my projects, share feedback, or join discussions on Python programming and beyond.
 
 ## Let's Code Together!
